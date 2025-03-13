@@ -1,0 +1,206 @@
+{
+    "accounts": [
+        {
+            "login": "eakjjaw903",
+            "password": "@#999111poki",
+            "proxy": null,
+            "2fa_url": "https://2fa.fb.rip/SURV6WOK46ELECR25NFWW4S2KFGIXOPZ",
+            "validated": false,
+            "fingerprint": {
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15",
+                "viewport": {
+                    "width": 800,
+                    "height": 600
+                },
+                "languages": [
+                    [
+                        "fr-FR",
+                        "fr"
+                    ],
+                    [
+                        "es-ES",
+                        "es"
+                    ]
+                ],
+                "platform": "iPad",
+                "timezone_offset": -600
+            },
+            "warmup_stats": {
+                "days_completed": 0,
+                "days_total": 3,
+                "posts_viewed": 484,
+                "likes_made": 104
+            },
+            "comment_stats": {
+                "comments_made": 0
+            },
+            "status": "В роботі"
+        },
+        {
+            "login": "avianaavis",
+            "password": "@#999111poki",
+            "proxy": null,
+            "2fa_url": "https://2fa.fb.rip/V5DX6PH5URGFWGLLDMYNGIVMDBYFWEJE",
+            "validated": false,
+            "fingerprint": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1",
+                "viewport": {
+                    "width": 800,
+                    "height": 600
+                },
+                "languages": [
+                    [
+                        "fr-FR",
+                        "fr"
+                    ]
+                ],
+                "platform": "iPhone",
+                "timezone_offset": -240
+            },
+            "warmup_stats": {
+                "days_completed": 0,
+                "days_total": 3,
+                "posts_viewed": 419,
+                "likes_made": 126
+            },
+            "comment_stats": {
+                "comments_made": 0
+            },
+            "status": "Готовий"
+        },
+        {
+            "login": "cqzzafm999",
+            "password": "@#999111poki",
+            "proxy": null,
+            "2fa_url": "https://2fa.fb.rip/44OIPB676UVR3ZPLIUDUZ6D6GEED46RU",
+            "validated": false,
+            "fingerprint": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+                "viewport": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "languages": [
+                    [
+                        "de-DE",
+                        "de"
+                    ],
+                    [
+                        "en-US",
+                        "en"
+                    ]
+                ],
+                "platform": "Win64",
+                "timezone_offset": -240
+            },
+            "warmup_stats": {
+                "days_completed": 0,
+                "days_total": 3,
+                "posts_viewed": 133,
+                "likes_made": 2
+            },
+            "comment_stats": {
+                "comments_made": 0
+            },
+            "status": "Готовий"
+        },
+        {
+            "login": "zndficw094",
+            "password": "@#999111poki",
+            "proxy": null,
+            "2fa_url": "https://2fa.fb.rip/Q5AUQHC5HE7R7CDTVJKE26C5JCHNJBAZ",
+            "validated": false,
+            "fingerprint": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1",
+                "viewport": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "languages": [
+                    [
+                        "en-US",
+                        "en"
+                    ]
+                ],
+                "platform": "iPad",
+                "timezone_offset": -480
+            },
+            "warmup_stats": {
+                "days_completed": 0,
+                "days_total": 3,
+                "posts_viewed": 109,
+                "likes_made": 2
+            },
+            "comment_stats": {
+                "comments_made": 0
+            },
+            "status": "Готовий"
+        },
+        {
+            "login": "omhhpmy715",
+            "password": "@#999111poki",
+            "proxy": null,
+            "2fa_url": "https://2fa.fb.rip/7Q2DRILFV2CNAN4W4NVX5YWV7O7JRGOI",
+            "validated": true,
+            "fingerprint": {
+                "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+                "viewport": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "languages": [
+                    [
+                        "uk-UA",
+                        "uk"
+                    ],
+                    [
+                        "en-US",
+                        "en"
+                    ]
+                ],
+                "platform": "iPhone",
+                "timezone_offset": 780
+            },
+            "warmup_stats": {
+                "days_completed": 0,
+                "days_total": 3,
+                "posts_viewed": 88,
+                "likes_made": 2
+            },
+            "comment_stats": {
+                "comments_made": 0
+            },
+            "status": "Готовий"
+        }
+    ],
+    "warmup_settings": {
+        "scroll_min": 7,
+        "scroll_max": 12,
+        "like_prob": 0.5,
+        "days": 3,
+        "work_interval": 60,
+        "pause_interval": 60
+    },
+    "comment_settings": {
+        "min_likes": 10,
+        "max_likes": 10000,
+        "max_comments": 1,
+        "comments": [
+            "Круто",
+            "клас",
+            "Вері кул"
+        ],
+        "intensity": 30,
+        "photo_paths": [
+            "C:/Users/Vasyl/Desktop/IMG_0064.JPG",
+            "C:/Users/Vasyl/Desktop/photo_2025-03-06_14-50-35.jpg"
+        ],
+        "max_comments_per_day": 100,
+        "work_interval": 60,
+        "pause_interval": 150,
+        "max_comments_per_post": 2
+    },
+    "settings": {
+        "super_mode": false
+    }
+}

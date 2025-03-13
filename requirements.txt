@@ -1,0 +1,4 @@
+customtkinter
+selenium
+requests
+webdriver-manager
